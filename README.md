@@ -1,4 +1,4 @@
 # demo
 This is my repository.
 <br>
-author - Sheen Sharma
+author - Sheen (student)
